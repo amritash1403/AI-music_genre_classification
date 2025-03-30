@@ -30,7 +30,7 @@ AI_Music_Genre_Classification/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/AI_Music_Genre_Classification.git
+git clone https://github.com/amritash1403/AI-music_genre_classification.git
 cd AI_Music_Genre_Classification
 
 2️⃣ Create & Activate a Virtual Environment
@@ -112,11 +112,6 @@ Improve model accuracy through hyperparameter tuning.
 Implement real-time audio processing for dynamic predictions.
 
 Enhance the web interface for an interactive user experience.
-
-# Contributors
-
-Harsh Kumar (Lead Developer)
-
 
 # License
 
